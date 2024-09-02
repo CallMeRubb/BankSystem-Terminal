@@ -6,5 +6,9 @@
     "henrik": {
         "passord": "6b0124a00c6ba770df726cfc44930557fe350e24abf1fc6a079c167f42ec5ec13efcda2526180b6cf16c68a0a8555bc433658df811341922e65c5996edd44c15",
         "money": "2000"
+    },
+    "abcc": {
+        "passord": "7c2ed3b511a16bb14534f1fae7b3105aada393a7a1b7733d97ab4b144899573a57648ec93c689c70f2e1818e001bd9dbfcd09466e45c2d2a391fc3fec62e1137",
+        "money": "2000"
     }
 }
